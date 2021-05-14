@@ -142,12 +142,17 @@ color: crimson;
 {
 color: white;
     text-shadow: none;
+    text-align: center;
 }
 .contact_1 h3
 {
     display: inline;
+    text-align: center;
 }
     #contact iframe
 {
     width: 100%
+}
+#pictuure {
+    text-align: center;
 }
